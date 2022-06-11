@@ -1,5 +1,5 @@
 '''
-测试使用的
+test使用
 Functions about transforming mesh(changing the position: modify vertices).
 1. forward: transform(transform, camera, project).
 2. backward: estimate transform matrix from correspondences.
